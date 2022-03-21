@@ -1,0 +1,5 @@
+# graphics
+biograpics
+git remote add origin https://github.com/ericafrente17/biographicserica.git
+git branch -M main
+git push -u origin main
